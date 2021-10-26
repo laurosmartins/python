@@ -1,0 +1,2 @@
+x=("Helolooo")
+print(x)
