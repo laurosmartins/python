@@ -1,4 +1,6 @@
 x=("Helolooo")
 print(x)
 y=x
-print(x *3)
+print(y *3)
+w  = y
+print(w*4)
